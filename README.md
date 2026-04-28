@@ -51,3 +51,8 @@ python src/analysis.py         # generates monthly revenue and category outputs
 
 ## Lessons Learned
 The main thing I'd do differently next time is add data quality checks earlier in the pipeline — I spent more time than expected tracking down where nulls were coming from before realizing they were in the source files themselves.
+
+---
+
+## Dataset:
+Download from https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce and place CSVs in a /data folder locally before running.
